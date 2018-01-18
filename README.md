@@ -8,7 +8,8 @@ cross-cutting concerns with other groups such as the Internationalization WG.
 
 ## Governance
 
-This initiative adopts the general Node.js [Code of Conduct].
+This initiative adopts the general Node.js [Code of Conduct], as well as its own
+[contributing guidelines].
 
 ## Team
 
