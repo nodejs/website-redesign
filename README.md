@@ -13,7 +13,7 @@ This initiative adopts the general Node.js [Code of Conduct], as well as its own
 
 ## Team
 
-- [@pup](https://github.com/pup) - **Olivia Hugger**, Community Committee Champion
+- [@oe](https://github.com/oe) - **Olivia Hugger**, Community Committee Champion
 - [@fhemberger](https://github.com/fhemberger) - **Frederic Hemberger**
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**
 - [@CodeTheory](https://github.com/CodeTheory) - **Timothy**
