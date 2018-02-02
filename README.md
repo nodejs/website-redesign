@@ -11,9 +11,13 @@ cross-cutting concerns with other groups such as the Internationalization WG.
 This initiative adopts the general Node.js [Code of Conduct], as well as its own
 [contributing guidelines].
 
+## Meetings
+
+Meetings are held every two weeks. Can access pieces of information in the meetings at [Meeting notes storage]. Organizational plans or related future meetings are available at [here](https://github.com/nodejs/website-redesign/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+Meeting+in%3Atitle)
+
 ## Team
 
-- [@oe](https://githuhttps://github.com/nodejs/website-redesignb.com/oe) - **Olivia Hugger**, Community Committee Champion
+- [@oe](https://github.com/oe) - **Olivia Hugger**, Community Committee Champion
 - [@fhemberger](https://github.com/fhemberger) - **Frederic Hemberger**
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**
 - [@CodeTheory](https://github.com/CodeTheory) - **Timothy**
@@ -29,3 +33,4 @@ This initiative adopts the general Node.js [Code of Conduct], as well as its own
 [Community Committee]: https://github.com/nodejs/community-committee
 [Code of Conduct]: https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md
 [contributing guidelines]: ./CONTRIBUTING.md
+[Meeting notes storage]: ./meetings
