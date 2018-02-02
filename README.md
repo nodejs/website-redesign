@@ -13,7 +13,7 @@ This initiative adopts the general Node.js [Code of Conduct], as well as its own
 
 ## Meetings
 
-Meetings are held every two weeks. Can access pieces of information in the meetings at [Meeting notes storage]. Organizational plans or related future meetings are available at [here](https://github.com/nodejs/website-redesign/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+Meeting+in%3Atitle)
+Meeting notes can be accessed [here](./meetings). Future meetings can be listed using [this link](https://github.com/nodejs/website-redesign/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+Meeting+in%3Atitle).
 
 ## Team
 
