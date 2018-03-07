@@ -29,6 +29,7 @@ Meeting notes can be accessed [here](./meetings). Future meetings can be listed 
 - [@emilypmendez](https://github.com/emilypmendez) - **Emily Mendez**
 - [@darcyclarke](https://github.com/darcyclarke) - **Darcy Clarke**
 - [@maddhruv](https://github.com/maddhruv) - **Dhruv Jain**
+- [@chowdhurian](https://github.com/chowdhurian) - **Manil Chowdhury**
 
 [Community Committee]: https://github.com/nodejs/community-committee
 [Code of Conduct]: https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md
