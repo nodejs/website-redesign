@@ -13,7 +13,12 @@ Your tone will adapt to the emotional state of the person or audience for whom y
 writing. It would not be a good idea to use the same tone of voice with someone who’s
 upset as you would with someone who’s happy.
 
-Our voice doesn’t change much from day to day, but our tone changes all the time.
+Over the course of a day, we typically take on different roles. At lunch with others,
+we sometimes take the role of a friend. In a team meeting, we often take a
+collaborative role. While walking our child to school, we take the role of a parent.
+Across all these settings, we are still the same person. In much the same way, our
+voice doesn’t change much from in different settings, but our tone changes all the
+time.
 
 ## Our voice
 
