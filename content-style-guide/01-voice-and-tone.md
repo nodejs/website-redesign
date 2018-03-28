@@ -54,6 +54,32 @@ Github issues list!"_
 Instead of: _"The GitHub issues list is the place for discussion of Node.js core
 features."_
 
+### Humour in voice
+
+When done right, humour is effective at helping us welcome people getting involved in the Node.js community.
+
+This section is intended as a primer on the recommended use of humour in the voice of Node.js
+
+As an open source project, Node.js brings together a mix of different individuals!
+This diversity is our strength; well-worth the challenge to be aware that individuals
+can have different types of humour. Mixing different types of humour can have
+unexpected effects. A subject we are confident is humourous may not have the same
+entertaining effect on other people. For this reason, it's recommended that we do
+our utmost to empathize with the audience when exercising our sense of humour.
+
+We need to be mindful while maintaining our sense of humour. Humour should be shared, not inflicted.
+
+The Node.js project is honoured to bring together individuals from different cultures
+to collaborate on shared objectives! Most people will have had experience empathizing
+with others within their culture. Constructively engaging across cultures is a
+challenge we are privileged to have. For this reason, we must take extra care to be
+aware of cultural variations in what constitutes acceptable humour. For example,
+regardless of their cultural endorsement, neither gender nor race is acceptable
+humour in the Node.js community. Humour of this nature does not build an inclusive
+and diverse environment.
+
+When done with thoughtfulness and care, humour can be encouraging and warm. It can also be damaging when misapplied. If ever in doubt, err on the side of being serious.
+
 ## Our tone
 
 Node.js’ tone is usually informal. When writing content or a response, being clear
