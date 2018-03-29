@@ -16,6 +16,7 @@ This initiative adopts the general Node.js [Code of Conduct], as well as its own
 Meeting notes can be accessed [here](./meetings). Future meetings can be listed using [this link](https://github.com/nodejs/website-redesign/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+Meeting+in%3Atitle).
 
 ## Team
+**[@nodejs/website-redesign](https://github.com/nodejs/website-redesign)**
 
 - [@oe](https://github.com/oe) - **Olivia Hugger**, Community Committee Champion
 - [@fhemberger](https://github.com/fhemberger) - **Frederic Hemberger**
