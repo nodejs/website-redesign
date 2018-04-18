@@ -18,19 +18,19 @@ Meeting notes can be accessed [here](./meetings). Future meetings can be listed 
 ## Team
 **[@nodejs/website-redesign](https://github.com/nodejs/website-redesign)**
 
-- [@oe](https://github.com/oe) - **Olivia Hugger**, Community Committee Champion
+- [@oe](https://github.com/oe) - **Olivia Hugger**
 - [@fhemberger](https://github.com/fhemberger) - **Frederic Hemberger**
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**
 - [@CodeTheory](https://github.com/CodeTheory) - **Timothy**
 - [@jestho](https://github.com/jestho) - **Jesper Thøgersen**
 - [@JonahMoses](https://github.com/JonahMoses) - **Jonah Moses**
-- [@amiller-gh](https://github.com/amiller-gh) - **Adam Miller**
+- [@amiller-gh](https://github.com/amiller-gh) - **Adam Miller**, CommComm Co-champion
 - [@skllcrn](https://github.com/skllcrn) - **Christopher Skillicorn**
 - [@pierreneter](https://github.com/pierreneter) - **Pierre Neter**
 - [@emilypmendez](https://github.com/emilypmendez) - **Emily Mendez**
 - [@darcyclarke](https://github.com/darcyclarke) - **Darcy Clarke**
 - [@maddhruv](https://github.com/maddhruv) - **Dhruv Jain**
-- [@chowdhurian](https://github.com/chowdhurian) - **Manil Chowdhury**
+- [@chowdhurian](https://github.com/chowdhurian) - **Manil Chowdhury**, CommComm Co-champion
 - [@codeekage](https://github.com/codeekage) - **Agiri Abraham JNR**
 
 [Community Committee]: https://github.com/nodejs/community-committee
