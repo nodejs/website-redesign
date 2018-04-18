@@ -18,6 +18,8 @@ Meeting notes can be accessed [here](./meetings). Future meetings can be listed 
 ## Team
 **[@nodejs/website-redesign](https://github.com/nodejs/website-redesign)**
 
+### Information Gathering
+
 - [@oe](https://github.com/oe) - **Olivia Hugger**
 - [@fhemberger](https://github.com/fhemberger) - **Frederic Hemberger**
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**
@@ -32,6 +34,18 @@ Meeting notes can be accessed [here](./meetings). Future meetings can be listed 
 - [@maddhruv](https://github.com/maddhruv) - **Dhruv Jain**
 - [@chowdhurian](https://github.com/chowdhurian) - **Manil Chowdhury**, CommComm Co-champion
 - [@codeekage](https://github.com/codeekage) - **Agiri Abraham JNR**
+
+### Planning _<-- current phase_
+
+### Design
+
+### Development
+
+### Testing
+
+### Launch
+
+### Maintenance
 
 [Community Committee]: https://github.com/nodejs/community-committee
 [Code of Conduct]: https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md
