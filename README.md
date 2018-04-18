@@ -73,7 +73,10 @@ Any member of the website-redesign iniative who prefers to begin contributing at
 
 ## Links
 
-[Community Committee]: https://github.com/nodejs/community-committee
-[Code of Conduct]: https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md
-[contributing guidelines]: ./CONTRIBUTING.md
-[Meeting notes storage]: ./meetings
+[Community Committee](https://github.com/nodejs/community-committee)
+
+[Code of Conduct](https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md)
+
+[contributing guidelines](./CONTRIBUTING.md)
+
+[Meeting notes storage](./meetings)
