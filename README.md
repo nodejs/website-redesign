@@ -57,6 +57,7 @@ Any member of the website-redesign iniative who prefers to begin contributing at
 - [@Qard](https://github.com/Qard) - **Stephen Belanger**
 - [@watilde](https://github.com/watilde) - **Daijiro Wachi**
 - [@tolmasky](https://github.com/tolmasky) - **Francisco Ryan Tolmasky I**
+- [@milapbhojak] (https://github.com/milapbhojak) - **Milap Bhojak**
 
 ### Design
 
