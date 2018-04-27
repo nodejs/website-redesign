@@ -18,7 +18,7 @@ Meeting notes can be accessed [here](./meetings). Future meetings can be listed 
 ## Team
 **[@nodejs/website-redesign](https://github.com/nodejs/website-redesign)**
 
-Any person who wants to contribute to the initiative is welcome! Please read [CONTRIBUTING](https://github.com/nodejs/website-redesign/blob/update-members-and-champions/CONTRIBUTING.md) and join the effort 🙌
+Any person who wants to contribute to the initiative is welcome! Please read [CONTRIBUTING.md](https://github.com/nodejs/website-redesign/blob/update-members-and-champions/CONTRIBUTING.md) and join the effort 🙌
 
 Any member of the website-redesign initiative attached to the current phase of the project will be added to a future phase as the project moves forward.
 
