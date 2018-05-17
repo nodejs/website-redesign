@@ -9,7 +9,7 @@ cross-cutting concerns with other groups such as the Internationalization WG.
 ## Governance
 
 This initiative adopts the general Node.js [Code of Conduct], as well as its own
-[contributing guidelines].
+[Contributing Guidelines].
 
 ## Meetings
 
@@ -78,6 +78,6 @@ Any member of the website-redesign iniative who prefers to begin contributing at
 
 [Code of Conduct](https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md)
 
-[contributing guidelines](./CONTRIBUTING.md)
+[Contributing Guidelines](./CONTRIBUTING.md)
 
-[Meeting notes storage](./meetings)
+[Meeting Notes Storage](./meetings)
