@@ -8,8 +8,8 @@ other groups such as the Internationalization WG.
 
 ## Governance
 
-This initiative adopts the general Node.js [Code of Conduct][], as well as its own
-[Contributing Guidelines][].
+This initiative adopts the general Node.js [Code of Conduct][], as well as its
+own [Contributing Guidelines][].
 
 ## Meetings
 
@@ -26,8 +26,8 @@ Any person who wants to contribute to the initiative is welcome! Please read
 Any member of the website-redesign initiative attached to the current phase of
 the project will be added to a future phase as the project moves forward.
 
-Any member of the website-redesign iniative who prefers to begin contributing at
-a specific future phase is welcome to make a PR adding their handle to that
+Any member of the website-redesign initiative who prefers to begin contributing
+at a specific future phase is welcome to make a PR adding their handle to that
 phase.
 
 * [@amiller-gh](https://github.com/amiller-gh) - **Adam Miller**, CommComm
