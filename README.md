@@ -48,7 +48,7 @@ phase.
 * [@bnb](https://github.com/bnb) - **Tierney Cyren**
 * [@timothyis](https://github.com/timothyis) - **Timothy**
 
-### Planning _<-- current phase_
+### Planning
 
 * [@oe](https://github.com/oe) - **Olivia Hugger**
 * [@fhemberger](https://github.com/fhemberger) - **Frederic Hemberger**
@@ -67,7 +67,15 @@ phase.
 * [@tolmasky](https://github.com/tolmasky) - **Francisco Ryan Tolmasky I**
 * [@milapbhojak](https://github.com/milapbhojak) - **Milap Bhojak**
 
-### Design
+### Design _<-- current phase_
+
+* [@amiller-gh](https://github.com/amiller-gh) - **Adam Miller**
+* [@chowdhurian](https://github.com/chowdhurian) - **Manil Chowdhury**
+* [@bnb](https://github.com/bnb) - **Tierney Cyren**
+* [@maddhruv](https://github.com/maddhruv) - **Dhruv Jain**
+* [@codeekage](https://github.com/codeekage) - **Agiri Abraham JNR**
+* [@tolmasky](https://github.com/tolmasky) - **Francisco Ryan Tolmasky I**
+* [@milapbhojak](https://github.com/milapbhojak) - **Milap Bhojak**
 
 ### Development
 
