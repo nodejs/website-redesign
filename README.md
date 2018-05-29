@@ -48,7 +48,7 @@ phase.
 * [@bnb](https://github.com/bnb) - **Tierney Cyren**
 * [@timothyis](https://github.com/timothyis) - **Timothy**
 
-### Planning
+### IA / UX Planning
 
 * [@oe](https://github.com/oe) - **Olivia Hugger**
 * [@fhemberger](https://github.com/fhemberger) - **Frederic Hemberger**
@@ -67,7 +67,7 @@ phase.
 * [@tolmasky](https://github.com/tolmasky) - **Francisco Ryan Tolmasky I**
 * [@milapbhojak](https://github.com/milapbhojak) - **Milap Bhojak**
 
-### Design _<-- current phase_
+### UI Design and Content Creation _<-- current phase_
 
 * [@amiller-gh](https://github.com/amiller-gh) - **Adam Miller**
 * [@chowdhurian](https://github.com/chowdhurian) - **Manil Chowdhury**
@@ -77,13 +77,13 @@ phase.
 * [@tolmasky](https://github.com/tolmasky) - **Francisco Ryan Tolmasky I**
 * [@milapbhojak](https://github.com/milapbhojak) - **Milap Bhojak**
 
-### Development
+### Site Development
 
 * [@jestho](https://github.com/jestho) - **Jesper Thøgersen**
 
-### Testing
+### User Testing
 
-### Launch
+### Deployment
 
 ### Maintenance
 
