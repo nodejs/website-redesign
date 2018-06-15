@@ -80,6 +80,7 @@ phase.
 ### Site Development
 
 * [@jestho](https://github.com/jestho) - **Jesper Thøgersen**
+* [@sagirk](https://github.com/sagirk) - **Sagir Khan**
 
 ### User Testing
 
