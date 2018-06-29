@@ -81,6 +81,7 @@ phase.
 
 * [@jestho](https://github.com/jestho) - **Jesper Thøgersen**
 * [@sagirk](https://github.com/sagirk) - **Sagir Khan**
+* [@abiclub23](https://github.com/abiclub23) - **Abhi Tondepu**
 
 ### User Testing
 
