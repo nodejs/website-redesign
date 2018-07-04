@@ -1,8 +1,8 @@
 - Start Date: (fill me in with today's date, YYYY-MM-DD)
 - PR: (leave this empty)
-- Node.js Issue: [#0000](link-to-documentation-issue)
+- Issue: [#0000](link-to-issue) (remove if no associated issue)
 
-# (Title goes here)
+# Title goes here
 
 ## Summary
 
