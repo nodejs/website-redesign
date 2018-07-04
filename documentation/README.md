@@ -10,7 +10,7 @@ If you submit a pull request to implement a significant change to the documentat
 
 ## To begin drafting a documentation page:
 
- 1. Fork the [nodejs/website-redesign repo](https://github.com/nodejs/website-redesign/issues).
+ 1. Fork the [nodejs/website-redesign repo](https://github.com/nodejs/website-redesign).
  2. Copy `getting-started-docs/0000-template.md` to `getting-started-docs/0000-my-article-name.md` (where 'my-article-name' is descriptive. Don't assign the page a number yet).
  3. Fill in the RFC template. Put care into the details! Please review the proposed [Node.js Voice and Tone Guidelines](https://github.com/nodejs/website-redesign/blob/master/style-guide/0001-voice-and-tone.md) before you begin writing.
  4. Submit a pull request. As a pull request the draft will receive feedback from the larger community, and the author should be prepared to revise it in response.
