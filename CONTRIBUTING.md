@@ -10,7 +10,7 @@ This is an adapted version of the contributing guide used by the Community Commi
 
 ## Contributing Documentation and Getting Started Guides
 
-While the he Website Redesign working group continues to iterate on site design and content structure, we will use an RFC process to accept and evaluate Node.js documentation and guide proposals in this repo. All proposed documentation pages and instructions for the RFC process can be found in the [/documentation](./documentation) directory.
+While the Website Redesign working group continues to iterate on site design and content structure, we will use an RFC process to accept and evaluate Node.js documentation and guide proposals in this repo. All proposed documentation pages and instructions for the RFC process can be found in the [/documentation](./documentation) directory.
 
 ## All Other Contributions
 
