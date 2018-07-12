@@ -4,6 +4,8 @@ While the Website Redesign working group continues to iterate on site design and
 
 ## When you need to follow this process
 
+With the working group iterating on design and content structure, this process is our way of making sure all content gets good feedback and, with approval, eventually finds its way to the right place in the documentation.
+
 You need to follow this process if you intend to make a "substantial" addition or change to the proposed Node.js getting started guides in this repo. What constitutes a "substantial" change evolves based on community norms. Some changes do not require an RFC. These may include reasonably sized re-phasing, reorganizing, or refactoring an existing documentation page.
 
 If you submit a pull request to implement a significant change to the documentation without going through the RFC process, it may be closed with a polite request to submit an RFC first!
