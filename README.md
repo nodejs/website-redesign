@@ -84,6 +84,7 @@ phase.
 * [@abiclub23](https://github.com/abiclub23) - **Abhi Tondepu**
 * [@connorholyday](https://github.com/connorholyday) - **Connor Holyday**
 * [@iceagency-jakecruse](https://github.com/iceagency-jakecruse) - **Jake Cruse**
+* [@jonahmoses](https://github.com/jonahmoses) - **Jonah Moses**
 
 ### User Testing
 
