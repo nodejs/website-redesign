@@ -70,23 +70,23 @@ phase.
 ### UI Design and Content Creation _<-- current phase_
 
 * [@amiller-gh](https://github.com/amiller-gh) - **Adam Miller**
-* [@chowdhurian](https://github.com/chowdhurian) - **Manil Chowdhury**
 * [@bnb](https://github.com/bnb) - **Tierney Cyren**
-* [@maddhruv](https://github.com/maddhruv) - **Dhruv Jain**
 * [@codeekage](https://github.com/codeekage) - **Agiri Abraham JNR**
-* [@tolmasky](https://github.com/tolmasky) - **Francisco Ryan Tolmasky I**
+* [@chowdhurian](https://github.com/chowdhurian) - **Manil Chowdhury**
+* [@maddhruv](https://github.com/maddhruv) - **Dhruv Jain**
 * [@milapbhojak](https://github.com/milapbhojak) - **Milap Bhojak**
+* [@tolmasky](https://github.com/tolmasky) - **Francisco Ryan Tolmasky I**
 
 ### Site Development
 
-* [@jestho](https://github.com/jestho) - **Jesper Thøgersen**
-* [@sagirk](https://github.com/sagirk) - **Sagir Khan**
 * [@abiclub23](https://github.com/abiclub23) - **Abhi Tondepu**
-* [@connorholyday](https://github.com/connorholyday) - **Connor Holyday**
 * [@ajay2507](https://github.com/ajay2507) - **Ajaykumar**
-* [@jonahmoses](https://github.com/jonahmoses) - **Jonah Moses**
+* [@connorholyday](https://github.com/connorholyday) - **Connor Holyday**
+* [@iceagency-jakecruse](https://github.com/iceagency-jakecruse) - **Jake Cruse**
 * [@iceagency-lukehopkins](https://github.com/iceagency-lukehopkins) - **Luke Hopkins**
-
+* [@jestho](https://github.com/jestho) - **Jesper Thøgersen**
+* [@jonahmoses](https://github.com/jonahmoses) - **Jonah Moses**
+* [@sagirk](https://github.com/sagirk) - **Sagir Khan**
 
 ### User Testing
 
