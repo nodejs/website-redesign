@@ -4,6 +4,14 @@
 - **Keywords:** (4-8 keywords for page meta data)
 - **Summary:** (~60 character explanation of the article content for page meta data)
 
-# Title goes here
+# Title
 
-> Draft your article content here.
+> Introduction paragraph(s).
+
+## Body Content
+
+> Body content, including sub-headings (H3 or lower, using the appropriate H(n) level for the content's place in the document), prose, code samples, screenshots, etc.
+
+## Conclusion
+
+> 1-2 paragraphs wrapping up the article
