@@ -85,6 +85,7 @@ phase.
 * [@connorholyday](https://github.com/connorholyday) - **Connor Holyday**
 * [@ajay2507](https://github.com/ajay2507) - **Ajaykumar**
 * [@jonahmoses](https://github.com/jonahmoses) - **Jonah Moses**
+* [@iceagency-lukehopkins](https://github.com/iceagency-lukehopkins) - **Luke Hopkins**
 
 
 ### User Testing
