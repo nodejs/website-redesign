@@ -83,7 +83,9 @@ phase.
 * [@sagirk](https://github.com/sagirk) - **Sagir Khan**
 * [@abiclub23](https://github.com/abiclub23) - **Abhi Tondepu**
 * [@connorholyday](https://github.com/connorholyday) - **Connor Holyday**
+* [@ajay2507](https://github.com/ajay2507) - **Ajaykumar**
 * [@jonahmoses](https://github.com/jonahmoses) - **Jonah Moses**
+
 
 ### User Testing
 
