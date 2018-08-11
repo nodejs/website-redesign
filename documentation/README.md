@@ -1,4 +1,4 @@
-# Documentation RFCs
+# Documentation RFCs (Request for Comments)
 
 While the Website Redesign working group continues to iterate on site design and content structure, we will use an RFC process to accept and evaluate Node.js documentation contributions in this repo. Once the new site architecture and documentation ingestion flow is finalized, all docs content will be migrated to its final location and this process updated accordingly.
 
