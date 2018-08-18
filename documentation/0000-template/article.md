@@ -12,6 +12,8 @@
 
 > Body content, including sub-headings (H3 or lower, using the appropriate H(n) level for the content's place in the document), prose, code samples, screenshots, etc.
 
+> Note: any included screenshots for your article should be saved in the same directory your article.md lives in!
+
 ## Conclusion
 
 > 1-2 paragraphs wrapping up the article
