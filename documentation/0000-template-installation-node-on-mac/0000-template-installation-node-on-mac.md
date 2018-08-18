@@ -20,6 +20,7 @@ Installation of Node with Homebrew is pretty straightforward - open the Terminal
 To make sure you have Node and NPM installed, run two simple commands to see what version of each is installed:
 1. To see if Node is installed, type **node -v** in Terminal. This should print the version number so you'll see something like this v10.6.0
 2. To see if NPM is installed, type **npm -v** in Terminal. This should print the version number so you'll see something like this 6.3.0
+
 ![alt text](versions_of_node_and_npm.png)
 
 ### Updating 
