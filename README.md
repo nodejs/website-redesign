@@ -87,6 +87,7 @@ phase.
 * [@jestho](https://github.com/jestho) - **Jesper Thøgersen**
 * [@jonahmoses](https://github.com/jonahmoses) - **Jonah Moses**
 * [@sagirk](https://github.com/sagirk) - **Sagir Khan**
+* [@ollelauribostrom](https://github.com/ollelauribostrom) - **Olle Lauri Boström**
 
 ### User Testing
 
