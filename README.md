@@ -89,6 +89,8 @@ phase.
 * [@sagirk](https://github.com/sagirk) - **Sagir Khan**
 * [@ollelauribostrom](https://github.com/ollelauribostrom) - **Olle Lauri Boström**
 * [@belar](https://github.com/Belar) - **Paweł**
+* [@erichodges](https://github.com/erichodges) - **Eric Hodges**
+
 
 ### User Testing
 
