@@ -2,7 +2,7 @@
 
 The content we make available on [Node.js](https://nodejs.org/en/) is for many different people and teams. They will use it to make decisions about teaching themselves Node.js, using it for their projects, and about contributing to its development.
 
-We can write content that empowers their decision by being aware of our voice and our tone. What’s the difference between voice and tone?
+We can write content that empowers their decisions by being aware of our voice and our tone. What’s the difference between voice and tone?
 
 ## Voice vs tone
 
