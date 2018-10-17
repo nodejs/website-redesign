@@ -18,7 +18,7 @@ own [Contributing Guidelines][].
 
 ## Summary / Current Status
 
-Our current focus is on UI design and content creation. You can get some background information by reading these two articles: [Redesigning Nodejs.org Part 1](https://medium.com/the-node-js-collection/redesigning-nodejs-part-1-fac08a0e015a) and [Redesigning Nodejs.org Part 2](https://medium.com/@ammiller/redesigning-nodejs-org-584212bb25e1). And browser the current working wirefames here https://projects.invisionapp.com/share/SJG12D028NX#/screens/281335816.
+Our current focus is on UI design and content creation. You can get some background information by reading these two articles: [Redesigning Nodejs.org Part 1](https://medium.com/the-node-js-collection/redesigning-nodejs-part-1-fac08a0e015a) and [Redesigning Nodejs.org Part 2](https://medium.com/@ammiller/redesigning-nodejs-org-584212bb25e1). And browse the current working wirefames [here](https://projects.invisionapp.com/share/SJG12D028NX#/screens/281335816).
 
 ## Team
 
