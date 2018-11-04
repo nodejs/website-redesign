@@ -95,6 +95,7 @@ phase.
 * [@belar](https://github.com/Belar) - **Paweł**
 * [@erichodges](https://github.com/erichodges) - **Eric Hodges**
 * [@utkarshbhimte](https://github.com/utkarshbhimte) - **Utkarsh Bhimte**
+* [@zanmarolt](https://github.com/zanmarolt) - **Zan Marolt**
 
 
 ### User Testing
