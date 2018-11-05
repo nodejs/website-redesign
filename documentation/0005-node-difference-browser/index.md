@@ -26,7 +26,7 @@ This means that you can write all the modern ES6-7-8-9 JavaScript that your Node
 
 Since JavaScript moves so fast, but browsers can be a bit slow and users a bit slow to upgrade, sometimes on the web, you are stuck to use older JavaScript / ECMAScript releases.
 
-YYou can use Babel to transform your code to be ES5-compatible before shipping it to the browser, but in Node, you won't need that.
+You can use Babel to transform your code to be ES5-compatible before shipping it to the browser, but in Node, you won't need that.
 
 Another difference is that Node uses the CommonJS module system, while in the browser we are starting to see the ES Modules standard being implemented.
 

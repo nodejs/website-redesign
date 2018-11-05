@@ -17,7 +17,7 @@ This is going to install the package in the local `node_modules` folder.
 To use it in your code, you just need to import it into your program using `require`:
 
 ```js
-const _ = require('lodash)
+const _ = require('lodash')
 ```
 
 What if your package is an executable?
