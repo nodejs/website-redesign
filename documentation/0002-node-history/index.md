@@ -69,7 +69,7 @@ First big blogging platform using Node: Ghost
 
 ## 2014
 
-Big drama: [IO.js](https://iojs.org/) is a major fork of Node.js, with the goal of introducing ES6 support and move faster
+The Big Fork: [io.js](https://iojs.org/) is a major fork of Node.js, with the goal of introducing ES6 support and moving faster
 
 ## 2015
 
