@@ -9,7 +9,7 @@ author: flaviocopes
 ```js
 const https = require('https')
 const options = {
-  hostname: 'flaviocopes.com',
+  hostname: 'whatever.com',
   port: 443,
   path: '/todos',
   method: 'GET'
@@ -40,7 +40,7 @@ const data = JSON.stringify({
 })
 
 const options = {
-  hostname: 'flaviocopes.com',
+  hostname: 'whatever.com',
   port: 443,
   path: '/todos',
   method: 'POST',

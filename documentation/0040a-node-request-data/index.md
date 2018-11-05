@@ -13,7 +13,7 @@ For example, to get the body of this request:
 ```js
 const axios = require('axios')
 
-axios.post('https://flaviocopes.com/todos', {
+axios.post('https://whatever.com/todos', {
   todo: 'Buy the milk'
 })
 ```

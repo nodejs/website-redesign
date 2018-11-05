@@ -12,7 +12,7 @@ You call it passing a file path, and once Node gets the file details it will cal
 
 ```js
 const fs = require('fs')
-fs.stat('/Users/flavio/test.txt', (err, stats) => {
+fs.stat('/Users/joe/test.txt', (err, stats) => {
   if (err) {
     console.error(err)
     return
@@ -26,7 +26,7 @@ Node provides also a sync method, which blocks the thread until the file stats a
 ```js
 const fs = require('fs')
 try {
-  const stats = fs.stat('/Users/flavio/test.txt')
+  const stats = fs.stat('/Users/joe/test.txt')
 } catch (err) {
   console.error(err)
 }
@@ -44,7 +44,7 @@ There are other advanced methods, but the bulk of what you'll use in your day-to
 
 ```js
 const fs = require('fs')
-fs.stat('/Users/flavio/test.txt', (err, stats) => {
+fs.stat('/Users/joe/test.txt', (err, stats) => {
   if (err) {
     console.error(err)
     return

@@ -15,13 +15,13 @@ Arguments can be standalone or have a key and a value.
 For example:
 
 ```sh
-node app.js flavio
+node app.js joe
 ```
 
 or
 
 ```sh
-node app.js name=flavio
+node app.js name=joe
 ```
 
 This changes how you will retrieve this value in the Node code.
@@ -53,7 +53,7 @@ const args = process.argv.slice(2)
 If you have one argument without an index name, like this:
 
 ```sh
-node app.js flavio
+node app.js joe
 ```
 
 you can access it using
@@ -66,19 +66,19 @@ args[0]
 In this case:
 
 ```sh
-node app.js name=flavio
+node app.js name=joe
 ```
 
-`args[0]` is `name=flavio`, and you need to
+`args[0]` is `name=joe`, and you need to
 parse it. The best way to do so is by using the [`minimist`](https://www.npmjs.com/package/minimist) library, which helps dealing with arguments:
 
 ```js
 const args = require('minimist')(process.argv.slice(2))
-args['name'] //flavio
+args['name'] //joe
 ```
 
 This time you need to use double dashes before each argument name:
 
 ```sh
-node app.js --name=flavio
+node app.js --name=joe
 ```

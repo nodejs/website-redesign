@@ -13,7 +13,7 @@ const fs = require('fs')
 
 const content = 'Some content!'
 
-fs.writeFile('/Users/flavio/test.txt', content, err => {
+fs.writeFile('/Users/joe/test.txt', content, err => {
   if (err) {
     console.error(err)
     return
@@ -30,7 +30,7 @@ const fs = require('fs')
 const content = 'Some content!'
 
 try {
-  const data = fs.writeFileSync('/Users/flavio/test.txt', content)
+  const data = fs.writeFileSync('/Users/joe/test.txt', content)
   //file written successfully
 } catch (err) {
   console.error(err)
@@ -42,7 +42,7 @@ By default, this API will **replace the contents of the file** if it does alread
 You can modify the default by specifying a flag:
 
 ```js
-fs.writeFile('/Users/flavio/test.txt', content, { flag: 'a+' }, err => {})
+fs.writeFile('/Users/joe/test.txt', content, { flag: 'a+' }, err => {})
 ```
 
 The flags you'll likely use are

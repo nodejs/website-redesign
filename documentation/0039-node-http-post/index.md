@@ -6,13 +6,13 @@ author: flaviocopes
 
 There are many ways to perform an HTTP POST request in Node, depending on the abstraction level you want to use.
 
-The simplest way to perform an HTTP request using Node is to use the [Axios library](https://flaviocopes.com/axios/):
+The simplest way to perform an HTTP request using Node is to use the Axios library:
 
 ```js
 const axios = require('axios')
 
 axios
-  .post('https://flaviocopes.com/todos', {
+  .post('https://whatever.com/todos', {
     todo: 'Buy the milk'
   })
   .then(res => {
@@ -30,7 +30,7 @@ Another way is to use the [Request library](https://github.com/request/request):
 const request = require('request')
 
 request.post(
-  'https://flaviocopes.com/todos',
+  'https://whatever.com/todos',
   {
     json: {
       todo: 'Buy the milk'
@@ -59,7 +59,7 @@ const data = JSON.stringify({
 })
 
 const options = {
-  hostname: 'flaviocopes.com',
+  hostname: 'whatever.com',
   port: 443,
   path: '/todos',
   method: 'POST',

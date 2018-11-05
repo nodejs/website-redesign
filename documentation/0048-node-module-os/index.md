@@ -94,7 +94,7 @@ Return the path to the home directory of the current user.
 Example:
 
 ```js
-'/Users/flavio'
+'/Users/joe'
 ```
 
 ## `os.hostname()`

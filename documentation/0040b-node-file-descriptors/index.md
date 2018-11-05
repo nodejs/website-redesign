@@ -11,7 +11,7 @@ A file descriptor is what's returned by opening the file using the `open()` meth
 ```js
 const fs = require('fs')
 
-fs.open('/Users/flavio/test.txt', 'r', (err, fd) => {
+fs.open('/Users/joe/test.txt', 'r', (err, fd) => {
   //fd is our file descriptor
 })
 ```
@@ -33,7 +33,7 @@ You can also open the file by using the `fs.openSync` method, which instead of p
 const fs = require('fs')
 
 try {
-  const fd = fs.openSync('/Users/flavio/test.txt', 'r')
+  const fd = fs.openSync('/Users/joe/test.txt', 'r')
 } catch (err) {
   console.error(err)
 }

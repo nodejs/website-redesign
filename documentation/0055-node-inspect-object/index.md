@@ -20,7 +20,7 @@ Now, all is fine until a certain level of nesting. After two levels of nesting, 
 
 ```
 const obj = {
-  name: 'Flavio',
+  name: 'joe',
   age: 35,
   person1: {
     name: 'Tony',
@@ -39,7 +39,7 @@ console.log(obj)
 
 
 {
-  name: 'Flavio',
+  name: 'joe',
   age: 35,
   person1: {
     name: 'Tony',

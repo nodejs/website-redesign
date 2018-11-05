@@ -182,7 +182,7 @@ Example:
 
 ```json
 {
-  "author": "Flavio Copes <flavio@flaviocopes.com> (https://flaviocopes.com)"
+  "author": "Joe <joe@whatever.com> (https://whatever.com)"
 }
 ```
 
@@ -191,9 +191,9 @@ Can also be used with this format:
 ```json
 {
   "author": {
-    "name": "Flavio Copes",
-    "email": "flavio@flaviocopes.com",
-    "url": "https://flaviocopes.com"
+    "name": "Joe",
+    "email": "joe@whatever.com",
+    "url": "https://whatever.com"
   }
 }
 ```
@@ -206,9 +206,7 @@ Example:
 
 ```json
 {
-  "contributors": [
-    "Flavio Copes <flavio@flaviocopes.com> (https://flaviocopes.com)"
-  ]
+  "contributors": ["Joe <joe@whatever.com> (https://whatever.com)"]
 }
 ```
 
@@ -218,9 +216,9 @@ Can also be used with this format:
 {
   "contributors": [
     {
-      "name": "Flavio Copes",
-      "email": "flavio@flaviocopes.com",
-      "url": "https://flaviocopes.com"
+      "name": "Joe",
+      "email": "joe@whatever.com",
+      "url": "https://whatever.com"
     }
   ]
 }
@@ -234,7 +232,7 @@ Example:
 
 ```json
 {
-  "bugs": "https://github.com/flaviocopes/package/issues"
+  "bugs": "https://github.com/whatever/package/issues"
 }
 ```
 
@@ -246,7 +244,7 @@ Example:
 
 ```json
 {
-  "homepage": "https://flaviocopes.com/package"
+  "homepage": "https://whatever.com/package"
 }
 ```
 
@@ -311,17 +309,17 @@ This property specifies where this package repository is located.
 Example:
 
 ```json
-"repository": "github:flaviocopes/testing",
+"repository": "github:whatever/testing",
 ```
 
 Notice the `github` prefix. There are other popular services baked in:
 
 ```json
-"repository": "gitlab:flaviocopes/testing",
+"repository": "gitlab:whatever/testing",
 ```
 
 ```json
-"repository": "bitbucket:flaviocopes/testing",
+"repository": "bitbucket:whatever/testing",
 ```
 
 You can explicitly set the version control system:
@@ -329,7 +327,7 @@ You can explicitly set the version control system:
 ```json
 "repository": {
   "type": "git",
-  "url": "https://github.com/flaviocopes/testing.git"
+  "url": "https://github.com/whatever/testing.git"
 }
 ```
 

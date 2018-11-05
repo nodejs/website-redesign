@@ -14,7 +14,7 @@ Example:
 
 ```txt
 ❯ npm list
-/Users/flavio/dev/node/cowsay
+/Users/joe/dev/node/cowsay
 └─┬ cowsay@1.3.1
   ├── get-stdin@5.0.1
   ├─┬ optimist@0.6.1
@@ -35,7 +35,7 @@ To get only your top-level packages (basically, the ones you told npm to install
 
 ```txt
 ❯ npm list --depth=0
-/Users/flavio/dev/node/cowsay
+/Users/joe/dev/node/cowsay
 └── cowsay@1.3.1
 ```
 
@@ -43,7 +43,7 @@ You can get the version of a specific package by specifying the name:
 
 ```txt
 ❯ npm list cowsay
-/Users/flavio/dev/node/cowsay
+/Users/joe/dev/node/cowsay
 └── cowsay@1.3.1
 ```
 
@@ -51,7 +51,7 @@ This also works for dependencies of packages you installed:
 
 ```txt
 ❯ npm list minimist
-/Users/flavio/dev/node/cowsay
+/Users/joe/dev/node/cowsay
 └─┬ cowsay@1.3.1
   └─┬ optimist@0.6.1
     └── minimist@0.0.10

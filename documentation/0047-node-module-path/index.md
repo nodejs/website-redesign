@@ -72,8 +72,8 @@ require('path').isAbsolute('./test/something') // false
 Joins two or more parts of a path:
 
 ```js
-const name = 'flavio'
-require('path').join('/', 'users', name, 'notes.txt') //'/users/flavio/notes.txt'
+const name = 'joe'
+require('path').join('/', 'users', name, 'notes.txt') //'/users/joe/notes.txt'
 ```
 
 ### `path.normalize()`
@@ -81,7 +81,7 @@ require('path').join('/', 'users', name, 'notes.txt') //'/users/flavio/notes.txt
 Tries to calculate the actual path when it contains relative specifiers like `.` or `..`, or double slashes:
 
 ```js
-require('path').normalize('/users/flavio/..//test.txt') ///users/test.txt
+require('path').normalize('/users/joe/..//test.txt') ///users/test.txt
 ```
 
 ### `path.parse()`
@@ -119,8 +119,8 @@ Accepts 2 paths as arguments. Returns the the relative path from the first path 
 Example:
 
 ```js
-require('path').relative('/Users/flavio', '/Users/flavio/test.txt') //'test.txt'
-require('path').relative('/Users/flavio', '/Users/flavio/something/test.txt') //'something/test.txt'
+require('path').relative('/Users/joe', '/Users/joe/test.txt') //'test.txt'
+require('path').relative('/Users/joe', '/Users/joe/something/test.txt') //'something/test.txt'
 ```
 
 ### `path.resolve()`
@@ -128,17 +128,17 @@ require('path').relative('/Users/flavio', '/Users/flavio/something/test.txt') //
 You can get the absolute path calculation of a relative path using `path.resolve()`:
 
 ```js
-path.resolve('flavio.txt') //'/Users/flavio/flavio.txt' if run from my home folder
+path.resolve('joe.txt') //'/Users/joe/joe.txt' if run from my home folder
 ```
 
 By specifying a second parameter, `resolve` will use the first as a base for the second:
 
 ```js
-path.resolve('tmp', 'flavio.txt') //'/Users/flavio/tmp/flavio.txt' if run from my home folder
+path.resolve('tmp', 'joe.txt') //'/Users/joe/tmp/joe.txt' if run from my home folder
 ```
 
 If the first parameter starts with a slash, that means it's an absolute path:
 
 ```js
-path.resolve('/etc', 'flavio.txt') //'/etc/flavio.txt'
+path.resolve('/etc', 'joe.txt') //'/etc/joe.txt'
 ```

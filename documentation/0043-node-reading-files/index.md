@@ -9,7 +9,7 @@ The simplest way to read a file in Node is to use the `fs.readFile()` method, pa
 ```js
 const fs = require('fs')
 
-fs.readFile('/Users/flavio/test.txt', (err, data) => {
+fs.readFile('/Users/joe/test.txt', (err, data) => {
   if (err) {
     console.error(err)
     return
@@ -24,7 +24,7 @@ Alternatively, you can use the synchronous version `fs.readFileSync()`:
 const fs = require('fs')
 
 try {
-  const data = fs.readFileSync('/Users/flavio/test.txt', 'utf8')
+  const data = fs.readFileSync('/Users/joe/test.txt', 'utf8')
   console.log(data)
 } catch (err) {
   console.error(err)

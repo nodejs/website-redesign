@@ -17,7 +17,7 @@ Use `fs.mkdir()` or `fs.mkdirSync()` to create a new folder.
 ```js
 const fs = require('fs')
 
-const folderName = '/Users/flavio/test'
+const folderName = '/Users/joe/test'
 
 try {
   if (!fs.existsSync(dir)) {
@@ -38,7 +38,7 @@ This piece of code reads the content of a folder, both files and subfolders, and
 const fs = require('fs')
 const path = require('path')
 
-const folderPath = '/Users/flavio'
+const folderPath = '/Users/joe'
 
 fs.readdirSync(folderPath)
 ```
@@ -70,7 +70,7 @@ Use `fs.rename()` or `fs.renameSync()` to rename folder. The first parameter is 
 ```js
 const fs = require('fs')
 
-fs.rename('/Users/flavio', '/Users/roger', err => {
+fs.rename('/Users/joe', '/Users/roger', err => {
   if (err) {
     console.error(err)
     return
@@ -85,7 +85,7 @@ fs.rename('/Users/flavio', '/Users/roger', err => {
 const fs = require('fs')
 
 try {
-  fs.renameSync('/Users/flavio', '/Users/roger')
+  fs.renameSync('/Users/joe', '/Users/roger')
 } catch (err) {
   console.error(err)
 }
@@ -110,7 +110,7 @@ and use it like this:
 ```js
 const fs = require('fs-extra')
 
-const folder = '/Users/flavio'
+const folder = '/Users/joe'
 
 fs.remove(folder, err => {
   console.error(err)
@@ -141,6 +141,6 @@ async function removeFolder(folder) {
   }
 }
 
-const folder = '/Users/flavio'
+const folder = '/Users/joe'
 removeFolder(folder)
 ```
