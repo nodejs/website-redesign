@@ -10,7 +10,7 @@ Building apps that run in the browser is a completely different thing than build
 
 Despite the fact that it's always JavaScript, there are some key differences that make the experience radically different.
 
-As a frontend developer that writes Node apps have a huge advantage - the language is still the same.
+As a frontend developer who extensively uses Javascript, Node apps brings with it, a huge advantage - the comfort of programming everything, the frontend and the backend, in a single language
 
 You have a huge opportunity because we know how hard it is to fully, deeply learn a programming language, and by using the same language to perform all your work on the web - both on the client and on the server, you're in a unique position of advantage.
 
