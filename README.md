@@ -95,6 +95,7 @@ phase.
 * [@belar](https://github.com/Belar) - **Paweł**
 * [@erichodges](https://github.com/erichodges) - **Eric Hodges**
 * [@utkarshbhimte](https://github.com/utkarshbhimte) - **Utkarsh Bhimte**
+* [@lidoravitan](https://github.com/lidoravitan) - **Lidor Avitan**
 * [@mbj36](https://github.com/mbj36) - **Mohit Bajoria**
 * [@zanmarolt](https://github.com/zanmarolt) - **Zan Marolt**
 
