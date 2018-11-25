@@ -48,7 +48,7 @@ You can get the full path:
 ```js
 fs.readdirSync(folderPath).map(fileName => {
   return path.join(folderPath, fileName)
-}
+})
 ```
 
 You can also filter the results to only return the files, and exclude the folders:
@@ -59,8 +59,9 @@ const isFile = fileName => {
 }
 
 fs.readdirSync(folderPath).map(fileName => {
-  return path.join(folderPath, fileName)).filter(isFile)
-}
+  return path.join(folderPath, fileName)
+})
+.filter(isFile)
 ```
 
 ## Rename a folder
