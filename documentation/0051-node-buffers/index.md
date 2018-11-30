@@ -24,19 +24,10 @@ A simple visualization of a buffer is when you are watching a YouTube video and 
 
 ## How to create a buffer
 
->In versions of Node.js prior to 6.0.0, `Buffer` instances were created
-using the `Buffer` constructor function, which allocates the returned
-Buffer` differently based on what arguments are provided:
-
->Because the behavior of `new Buffer()` is different depending on the type of
-the first < argument, security and reliability issues can be inadvertently
-introduced into applications when argument validation or `Buffer` initialization
-is not performed.
-
-To make the creation of `Buffer` instances more reliable and less error-prone, the various forms of the `new Buffer()` constructor have been **deprecated** and replaced by separate [`Buffer.from()`](https://nodejs.org/api/buffer.html#buffer_buffer_from_buffer_alloc_and_buffer_allocunsafe), [`Buffer.alloc()`](https://nodejs.org/api/buffer.html#buffer_class_method_buffer_alloc_size_fill_encoding), and [`Buffer.allocUnsafe()`](https://nodejs.org/api/buffer.html#buffer_class_method_buffer_allocunsafe_size) methods.
+A buffer is created using the [`Buffer.from()`](https://nodejs.org/api/buffer.html#buffer_buffer_from_buffer_alloc_and_buffer_allocunsafe), [`Buffer.alloc()`](https://nodejs.org/api/buffer.html#buffer_class_method_buffer_alloc_size_fill_encoding), and [`Buffer.allocUnsafe()`](https://nodejs.org/api/buffer.html#buffer_class_method_buffer_allocunsafe_size) methods.
 
 ```js
-const buf = new Buffer.from('Hey!')
+const buf = Buffer.from('Hey!')
 ```
 - [`Buffer.from(array)`](https://nodejs.org/api/buffer.html#buffer_class_method_buffer_from_array)
 - [`Buffer.from(arrayBuffer[, byteOffset[, length]])`](https://nodejs.org/api/buffer.html#buffer_class_method_buffer_from_arraybuffer_byteoffset_length) 
@@ -58,7 +49,7 @@ const buf = Buffer.allocUnsafe(1024)
 A buffer, being an array of bytes, can be accessed like an array:
 
 ```js
-const buf = new Buffer.from('Hey!')
+const buf = Buffer.from('Hey!')
 console.log(buf[0]) //72
 console.log(buf[1]) //101
 console.log(buf[2]) //121
@@ -79,14 +70,14 @@ console.log(buf.toString())
 Use the `length` property:
 
 ```js
-const buf = new Buffer.from('Hey!')
+const buf = Buffer.from('Hey!')
 console.log(buf.length)
 ```
 
 ### Iterate over the contents of a buffer
 
 ```js
-const buf = new Buffer.from('Hey!')
+const buf = Buffer.from('Hey!')
 for (const item of buf) {
   console.log(item) //72 101 121 33
 }
@@ -97,14 +88,14 @@ for (const item of buf) {
 You can write to a buffer a whole string of data by using the `write()` method:
 
 ```js
-const buf = new Buffer.alloc(4)
+const buf = Buffer.alloc(4)
 buf.write('Hey!')
 ```
 
 Just like you can access a buffer with an array syntax, you can also set the contents of the buffer in the same way:
 
 ```js
-const buf = new Buffer.from('Hey!')
+const buf = Buffer.from('Hey!')
 buf[1] = 111 //o
 console.log(buf.toString()) //Hoy!
 ```
@@ -114,16 +105,16 @@ console.log(buf.toString()) //Hoy!
 Copying a buffer is possible using the `copy()` method:
 
 ```js
-const buf = new Buffer.from('Hey!')
-let bufcopy = new Buffer.alloc(4) //allocate 4 bytes
+const buf = Buffer.from('Hey!')
+let bufcopy = Buffer.alloc(4) //allocate 4 bytes
 buf.copy(bufcopy)
 ```
 
 By default you copy the whole buffer. 3 more parameters let you define the starting position, the ending position, and the new buffer length:
 
 ```js
-const buf = new Buffer.from('Hey!')
-let bufcopy = new Buffer.alloc(2) //allocate 2 bytes
+const buf = Buffer.from('Hey!')
+let bufcopy = Buffer.alloc(2) //allocate 2 bytes
 buf.copy(bufcopy, 0, 2, 2)
 bufcopy.toString() //'He'
 ```
@@ -135,7 +126,7 @@ If you want to create a partial visualization of a buffer, you can create a slic
 Use the `slice()` method to create it. The first parameter is the starting position, and you can specify an optional second parameter with the end position:
 
 ```js
-const buf = new Buffer.from('Hey!')
+const buf = Buffer.from('Hey!')
 buf.slice(0).toString() //Hey!
 const slice = buf.slice(0, 2)
 console.log(slice.toString()) //He
