@@ -1,35 +1,36 @@
-- **Start Date:** (fill me in with today's date, YYYY-MM-DD)
+- **Start Date:** December 15, 2018
 - **PR:** (leave this empty)
 - **Issue:** [#0000](link-to-issue) (remove if no associated issue)
 - **Keywords:** (4-8 keywords for page meta data)
 - **Summary:** (~60 character explanation of the article content for page meta data)
 
 # Using Node.js with frontend frameworks
+> This module is about using React, a frontend framework with Node.js on a Linux environment using terminal.
 
-> In this module we will be showing how to use node.js with React.js on a Linux environment using terminal.
 
 ## Node.js + React.js
+> We will be creating a simple Hello-World app using React because what better way to learn than by doing?
 
->for this section of the documentation, we will be creating a simple Hello-World app. For this tutorial we will be using the terminal.
 
 ### Requirements:
   - Node.js
   - React.js
-
+  - NPM (package manager)
 
 
 #### Node.js:
-We will be using this as a server for our client
+Be sure to have Node.js before starting. You can visit https://nodejs.org/en/download/ if you need instructions on downloading Node.
+
 
 #### React.js
-This is the framework we will be using to create our user interface. You may refer to the React.js website for the complete documentation and tutorial.
+We will use this framework to create our user interface. We highly encourage visiting https://reactjs.org/ for the complete and official documentation and tutorial.
 
 
 
 ## Step 1:
-> We will need to setup out React.js application. The easiest way to this is by using the create-react-app command which bundles all the tools you may need for development. Alternatively, you can start building the application by installing the required tools and packages individually. You may want to read the official React.js documentation for this process but for this tutorial, we will be utilizing the create-react-app command.
+> To start, We will need to setup our React.js application. The easiest way to this is by using the create-react-app command which bundles all the tools you may need for development. Alternatively, you can start building the application by installing the required tools and packages individually. You may want to read the official React.js documentation for this process but for this tutorial, we will be utilizing the create-react-app command.
 
-> assuming you have already learned about NPM on the previous section of the documentation, We will continue with using NPM to install CRA(create-react-app).
+> We will continue by using NPM to install CRA(create-react-app).
 
 > >npm install create-react-app -g
 
@@ -46,7 +47,7 @@ This is the framework we will be using to create our user interface. You may ref
 
 > Once done, you should receive a confirmation like:
 
-> >Success! Created hello-world at <your directory>/hello-world
+> > Success! Created hello-world at <your directory>/hello-world
 Inside that directory, you can run several commands:
 
   >>npm start
@@ -103,4 +104,3 @@ Inside that directory, you can run several commands:
 
 > The create-react-app creates an app with some packages useful for development.
 
-> For a manual setup where you would want a more customized packages, please see the other section of this documentation. 
