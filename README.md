@@ -99,7 +99,7 @@ phase.
 * [@mbj36](https://github.com/mbj36) - **Mohit Bajoria**
 * [@zanmarolt](https://github.com/zanmarolt) - **Zan Marolt**
 * [@imbhargav5](https://github.com/imbhargav5) - **Bhargav Ponnapalli**
-
+* [@ZYSzys](https://github.com/ZYSzys) - **ZYSzys**
 
 ### User Testing
 
