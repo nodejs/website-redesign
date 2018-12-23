@@ -100,7 +100,7 @@ phase.
 * [@zanmarolt](https://github.com/zanmarolt) - **Zan Marolt**
 * [@imbhargav5](https://github.com/imbhargav5) - **Bhargav Ponnapalli**
 * [@mikeattara](https://github.com/mikeattara) - **Mike Perry Y Attara**
-
+* [@ZYSzys](https://github.com/ZYSzys) - **ZYSzys**
 
 ### User Testing
 
