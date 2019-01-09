@@ -101,6 +101,7 @@ phase.
 * [@imbhargav5](https://github.com/imbhargav5) - **Bhargav Ponnapalli**
 * [@mikeattara](https://github.com/mikeattara) - **Mike Perry Y Attara**
 * [@ZYSzys](https://github.com/ZYSzys) - **ZYSzys**
+* [@mrjam2](https://github.com/mrjam2) - **Jamie Burton**
 
 ### User Testing
 
