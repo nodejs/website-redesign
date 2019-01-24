@@ -29,17 +29,12 @@ A buffer is created using the [`Buffer.from()`](https://nodejs.org/api/buffer.ht
 ```js
 const buf = Buffer.from('Hey!')
 ```
-- [`Buffer.from(array)`](https://nodejs.org/api/buffer.html#buffer_class_method_buffer_from_array)
-- [`Buffer.from(arrayBuffer[, byteOffset[, length]])`](https://nodejs.org/api/buffer.html#buffer_class_method_buffer_from_arraybuffer_byteoffset_length) 
-- [`Buffer.from(buffer)`](https://nodejs.org/api/buffer.html#buffer_class_method_buffer_from_buffer)  
-- [`Buffer.from(string[, encoding])`](https://nodejs.org/api/buffer.html#buffer_class_method_buffer_from_string_encoding)
+You can optionally pass the encoding in the second parameter (defaults to UTF-8).
 
-You can also just initialize the buffer passing the size. This creates a 1KB buffer:
+You can also initialize a buffer with a size. This creates a 1KB buffer:
 
 ```js
 const buf = Buffer.alloc(1024)
-//or
-const buf = Buffer.allocUnsafe(1024)
 ```
 
 ## Using a buffer
