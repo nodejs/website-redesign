@@ -103,6 +103,7 @@ phase.
 * [@ZYSzys](https://github.com/ZYSzys) - **ZYSzys**
 * [@mrjam2](https://github.com/mrjam2) - **Jamie Burton**
 * [@jamesgeorge007](https://github.com/jamesgeorge007) - **James George**
+* [@Yash-Handa](https://github.com/Yash-Handa) - **Yash Handa**
 
 ### User Testing
 
