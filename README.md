@@ -70,6 +70,7 @@ phase.
 * [@watilde](https://github.com/watilde) - **Daijiro Wachi**
 * [@tolmasky](https://github.com/tolmasky) - **Francisco Ryan Tolmasky I**
 * [@milapbhojak](https://github.com/milapbhojak) - **Milap Bhojak**
+* [@devamaz](https://github.com/devamaz) - **Ahmad Abdul-Aziz**
 
 ### UI Design and Content Creation _<-- current phase_
 
@@ -109,6 +110,8 @@ phase.
 ### Deployment
 
 ### Maintenance
+
+* [@devamaz](https://github.com/devamaz) - **Ahmad Abdul-Aziz**
 
 ## Links
 
