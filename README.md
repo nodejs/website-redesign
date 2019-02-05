@@ -81,6 +81,7 @@ phase.
 * [@maddhruv](https://github.com/maddhruv) - **Dhruv Jain**
 * [@milapbhojak](https://github.com/milapbhojak) - **Milap Bhojak**
 * [@tolmasky](https://github.com/tolmasky) - **Francisco Ryan Tolmasky I**
+* [@iNidAName](https://github.com/inidaname) - **Hassaan Sani**
 
 ### Site Development
 
@@ -105,6 +106,7 @@ phase.
 * [@mrjam2](https://github.com/mrjam2) - **Jamie Burton**
 * [@jamesgeorge007](https://github.com/jamesgeorge007) - **James George**
 * [@Yash-Handa](https://github.com/Yash-Handa) - **Yash Handa**
+* [@iNidAName](https://github.com/inidaname) - **Hassaan Sani**
 
 ### User Testing
 
