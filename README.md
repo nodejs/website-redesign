@@ -82,6 +82,7 @@ phase.
 * [@milapbhojak](https://github.com/milapbhojak) - **Milap Bhojak**
 * [@tolmasky](https://github.com/tolmasky) - **Francisco Ryan Tolmasky I**
 * [@iNidAName](https://github.com/inidaname) - **Hassaan Sani**
+* [@AliObaji](https://github.com/AliObaji) - **Ali Obaji**
 
 ### Site Development
 
