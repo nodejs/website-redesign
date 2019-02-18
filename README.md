@@ -107,6 +107,7 @@ phase.
 * [@jamesgeorge007](https://github.com/jamesgeorge007) - **James George**
 * [@Yash-Handa](https://github.com/Yash-Handa) - **Yash Handa**
 * [@iNidAName](https://github.com/inidaname) - **Hassaan Sani**
+* [@LaRuaNa](https://github.com/LaRuaNa) - **Onur Laru**
 
 ### User Testing
 
