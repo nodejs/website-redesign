@@ -18,7 +18,7 @@ own [Contributing Guidelines][].
 
 ## Summary / Current Status
 
-Our current focus is on UI design and content creation. You can get some background information by reading these two articles: [Redesigning Nodejs.org Part 1](https://medium.com/the-node-js-collection/redesigning-nodejs-part-1-fac08a0e015a) and [Redesigning Nodejs.org Part 2](https://medium.com/@ammiller/redesigning-nodejs-org-584212bb25e1). And browse the current working wirefames [here](https://projects.invisionapp.com/share/SJG12D028NX#/screens/281335816).
+Our current focus is on site development. Development is happening in the [nodejs.dev repo](https://github.com/nodejs/nodejs.dev). This repo continues to be the hub for the redesign initiative.
 
 ## Team
 
@@ -72,7 +72,7 @@ phase.
 * [@milapbhojak](https://github.com/milapbhojak) - **Milap Bhojak**
 * [@devamaz](https://github.com/devamaz) - **Ahmad Abdul-Aziz**
 
-### UI Design and Content Creation _<-- current phase_
+### UI Design and Content Creation
 
 * [@amiller-gh](https://github.com/amiller-gh) - **Adam Miller**
 * [@bnb](https://github.com/bnb) - **Tierney Cyren**
@@ -83,7 +83,7 @@ phase.
 * [@tolmasky](https://github.com/tolmasky) - **Francisco Ryan Tolmasky I**
 * [@iNidAName](https://github.com/inidaname) - **Hassaan Sani**
 
-### Site Development
+### Site Development _<-- current phase_
 
 * [@abiclub23](https://github.com/abiclub23) - **Abhi Tondepu**
 * [@ajay2507](https://github.com/ajay2507) - **Ajaykumar**
