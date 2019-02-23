@@ -82,6 +82,7 @@ phase.
 * [@milapbhojak](https://github.com/milapbhojak) - **Milap Bhojak**
 * [@tolmasky](https://github.com/tolmasky) - **Francisco Ryan Tolmasky I**
 * [@iNidAName](https://github.com/inidaname) - **Hassaan Sani**
+* [@abedzantout](https://github.com/abedzantout) - **Abdul Rahman Zantout**
 * [@AliObaji](https://github.com/AliObaji) - **Ali Obaji**
 * [@AhmadAwais](https://github.com/AhmadAwais) - **AhmadAwais**
 
@@ -109,6 +110,7 @@ phase.
 * [@jamesgeorge007](https://github.com/jamesgeorge007) - **James George**
 * [@Yash-Handa](https://github.com/Yash-Handa) - **Yash Handa**
 * [@iNidAName](https://github.com/inidaname) - **Hassaan Sani**
+* [@abedzantout](https://github.com/abedzantout) - **Abdul Rahman Zantout**
 * [@LaRuaNa](https://github.com/LaRuaNa) - **Onur Laru**
 * [@AhmadAwais](https://github.com/AhmadAwais) - **AhmadAwais**
 
