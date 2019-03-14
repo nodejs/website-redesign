@@ -1,5 +1,7 @@
 # website-redesign
 
+**Watch this repo and [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev/). This repo is an administrative/planning repo for the initiative. Ongoing work is also happening in the codebase at [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev/).**
+
 This is the organizational repository for the Node.js Website Redesign Strategic
 Initiative, as defined under the [Community Committee][]. In plain speak, this
 initiative is tasked with organizing and facilitating the redesign of the
