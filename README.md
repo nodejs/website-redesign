@@ -116,6 +116,7 @@ phase.
 * [@LaRuaNa](https://github.com/LaRuaNa) - **Onur Laru**
 * [@AhmadAwais](https://github.com/AhmadAwais) - **AhmadAwais**
 * [@BeniCheni](https://github.com/BeniCheni) - **Benjamin Chen**
+* [@kevjin](https://github.com/kevjin) - **Kevin Jin**
 
 ### User Testing
 
